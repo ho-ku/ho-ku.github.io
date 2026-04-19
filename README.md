@@ -1,5 +1,4 @@
-<a id="privacy-policy"></a>  
-**Privacy Policy**
+## Privacy Policy {#privacy-policy}  
 
 This privacy policy applies to the Flippo app (hereby referred to as "Application") for mobile devices that was created by Denys Andriievskyi (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
@@ -70,8 +69,7 @@ If you have any questions regarding privacy while using the Application, or have
 
 * * *
 
-<a id="terms-and-conditions"></a>  
-**Terms & Conditions**  
+## Terms & Conditions {#terms-and-conditions}
 
 These terms and conditions apply to the Flippo app (hereby referred to as "Application") for mobile devices that was created by Denys Andriievskyi (hereby referred to as "Service Provider") as an Ad Supported service.
 
