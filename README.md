@@ -35,6 +35,16 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 *   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 *   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
+**Sharing Feature**
+
+The Application includes an optional "Share" feature that lets you export a short audio clip from a game round and send it to another app or contact of your choice. When you tap the Share button:                                   
+
+*   The audio clip is composed entirely on your device - your recordings never leave your phone on the way to the sharing flow.
+*   The Service Provider does not receive, store, or process the content you share.                                                     *   Only the destination you explicitly select (for example, Messages, Mail, AirDrop, or a third-party social app) receives the clip. That destination's own privacy policy then applies to how they handle it.
+*   No share is performed automatically. Nothing is sent anywhere unless you actively choose a destination in the iOS share sheet.
+
+You can choose not to use this feature at any time; it has no impact on the rest of the Application.
+
 **Opt-Out Rights**
 
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
