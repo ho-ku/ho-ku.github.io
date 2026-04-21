@@ -40,7 +40,8 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 The Application includes an optional "Share" feature that lets you export a short audio clip from a game round and send it to another app or contact of your choice. When you tap the Share button:                                   
 
 *   The audio clip is composed entirely on your device - your recordings never leave your phone on the way to the sharing flow.
-*   The Service Provider does not receive, store, or process the content you share.                                                     *   Only the destination you explicitly select (for example, Messages, Mail, AirDrop, or a third-party social app) receives the clip. That destination's own privacy policy then applies to how they handle it.
+*   The Service Provider does not receive, store, or process the content you share.
+*   Only the destination you explicitly select (for example, Messages, Mail, AirDrop, or a third-party social app) receives the clip. That destination's own privacy policy then applies to how they handle it.
 *   No share is performed automatically. Nothing is sent anywhere unless you actively choose a destination in the iOS share sheet.
 
 You can choose not to use this feature at any time; it has no impact on the rest of the Application.
