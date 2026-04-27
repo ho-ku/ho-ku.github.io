@@ -126,7 +126,7 @@ Voice party game for friends.
 
 Need help, found a bug, or have a suggestion? Email us and we'll reply within 1–2 business days.
 
-**[support@yourdomain.com](mailto:support@yourdomain.com?subject=Flippo%20Support)**
+**[app.flippo@gmail.com](mailto:app.flippo@gmail.com?subject=Flippo%20Support)**
 
 ## Frequently Asked Questions
 
