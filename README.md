@@ -117,3 +117,36 @@ These terms and conditions are effective as of 2026-04-19
 **Contact Us**
 
 If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at app.flippo@gmail.com.
+
+## Flippo Support {#support}
+
+Voice party game for friends.
+
+## Contact
+
+Need help, found a bug, or have a suggestion? Email us and we'll reply within 1–2 business days.
+
+**[support@yourdomain.com](mailto:support@yourdomain.com?subject=Flippo%20Support)**
+
+## Frequently Asked Questions
+
+### The microphone isn't working
+
+Open iOS **Settings → Flippo** and enable **Microphone** access.
+
+### I purchased "Remove Ads" but ads still appear
+
+In Flippo, go to **Settings → Restore Purchases**. If that doesn't resolve it, email us with the Apple ID region used for the purchase.
+
+### The app is in the wrong language
+
+Flippo follows your iOS system language. Change it in **Settings → General → Language & Region**.
+
+### How do I report a bug or request a feature?
+
+Email us — short messages are fine. Screenshots help a lot.
+
+---
+
+© Flippo
+
