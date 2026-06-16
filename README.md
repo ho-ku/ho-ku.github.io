@@ -17,15 +17,16 @@ The Application does not use Artificial Intelligence (AI) technologies to proces
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to IP address, device identifier, device model, device name, operating system and version, app version, language, time zone, approximate location (country, region, city derived from IP), crash diagnostics (stack traces, device state), app usage events, event timestamps. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information, including but not limited to IP address, device identifier, device model, device name, advertising identifier (IDFA, only when you consent to App Tracking), operating system and version, app version, language, time zone, approximate location (country, region, city derived from IP), crash diagnostics (stack traces, device state), app usage events, event timestamps. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
 **Third Party Access**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Diagnostics and usage analytics are periodically transmitted to external services to help the Service Provider improve the Application. Advertising is delivered through CleverAdsSolutions (CAS), a mediation service that may serve ads from several advertising networks (including Google AdMob). When you consent via the App Tracking Transparency prompt, your advertising identifier (IDFA) and related data (such as IP address and ad-interaction events) may be shared with these advertising partners to serve and measure personalized ads; if you do not consent, ads are non-personalized. The set of advertising partners may change over time — the current list and each partner's privacy policy are available through CAS and the in-app privacy options. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [CleverAdsSolutions (CAS)](https://cas.ai/privacy-policy/) — ad mediation
+*   [Google AdMob](https://support.google.com/admob/answer/6128543?hl=en) — served via CAS
 *   [Sentry](https://sentry.io/privacy/)
 *   [Amplitude](https://amplitude.com/privacy)
 
@@ -68,7 +69,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-04-19
+This privacy policy is effective as of 2026-06-16
 
 **Your Consent**
 
@@ -94,7 +95,8 @@ The Application stores and processes personal data that you have provided to the
 
 Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
 
-*   [AdMob](https://developers.google.com/admob/terms)
+*   [CleverAdsSolutions (CAS)](https://cas.ai/privacy-policy/)
+*   [Google AdMob](https://developers.google.com/admob/terms)
 *   [Sentry](https://sentry.io/terms/)
 *   [Amplitude](https://amplitude.com/terms)
 
@@ -112,7 +114,7 @@ The Service Provider may wish to update the application at some point. The appli
 
 The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2026-04-19
+These terms and conditions are effective as of 2026-06-16
 
 **Contact Us**
 
@@ -149,4 +151,3 @@ Email us — short messages are fine. Screenshots help a lot.
 ---
 
 © Flippo
-
